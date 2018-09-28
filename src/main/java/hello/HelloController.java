@@ -12,7 +12,7 @@ public class HelloController {
         style += "body { background-color: #6DB23E; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 250%; }";
         style += "</style>";
         
-        String message = "Hello Spring Boot with CI!";
+        String message = "Hello Spring Boot with CI/CD!";
         
         String body = "<body>" + message + "</body>";
 
